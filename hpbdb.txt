@@ -1,0 +1,547 @@
+Pathogen	Kindom	Phylum	Class	Order	Family	Genus	Species	Gram stain	Host	Biosafety level	Disease
+Shewanella putrefaciens	Bacteria	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella putrefaciens	-	Arthropod;Human;Vertebrate	BSL-2	
+Borreliella burgdorferi	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Borreliaceae	Borreliella	Borreliella burgdorferi	-	Arthropod;Environment;Human;Rodent	BSL-2	Blood
+Borrelia hermsii	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Borreliaceae	Borrelia	Borrelia hermsii	-	Human;Rodent	null	
+Treponema pallidum	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Treponemataceae	Treponema	Treponema pallidum	-	Human;Primate	BSL-2	Digestive system;Reproductive system
+Leptospira interrogans	Bacteria	Spirochaetota	Spirochaetia	Leptospirales	Leptospiraceae	Leptospira	Leptospira interrogans	-	Amphibian;Human;Mammal;Rodent	BSL-2	
+Campylobacter coli	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter coli	-	Birds;Human;Mammal;Primate	BSL-2	Blood;Digestive system;Reproductive system
+Campylobacter fetus	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter fetus	-	Human;Mammal;Plant;Primate;Reptile	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Immune system;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Campylobacter jejuni	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter jejuni	-	Birds;Food;Human;Mammal;Primate;Rodent	BSL-2	Blood;Central nervous system;Digestive system;Oncology;Reproductive system;Skin/Soft tissue;Urinary system
+Campylobacter hyointestinalis	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter hyointestinalis	-	Human;Mammal	BSL-2	
+Campylobacter concisus	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter concisus	-	Human	BSL-2	Digestive system
+Campylobacter curvus	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter curvus	-	Human	BSL-2	
+Campylobacter lari	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter lari	-	Birds;Human;Mammal;Vertebrate	BSL-2	Digestive system
+Campylobacter sputorum	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter sputorum	-	Human;Mammal	BSL-2	
+Helicobacter pylori	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter pylori	-	Human;Mammal;Primate;Rodent	BSL-2	Digestive system;Eye/Ear/Oral/Nasal;Immune system
+Helicobacter cinaedi	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter cinaedi	-	Birds;Human;Mammal;Rodent	BSL-2	Blood;Digestive system
+Brucella abortus	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Brucellaceae	Brucella	Brucella abortus	-	Human;Mammal;Rodent	BSL-3	Blood;Reproductive system
+Elizabethkingia meningoseptica	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	-	Human	BSL-2	Blood;Cardiovascular system;Central nervous system;Oncology
+Chryseobacterium gleum	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Chryseobacterium	Chryseobacterium gleum	null	Human	BSL-2	Respiratory system
+Chryseobacterium indologenes	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Chryseobacterium	Chryseobacterium indologenes	null	Birds;Human;Vertebrate	BSL-2	Reproductive system;Respiratory system;Urinary system
+Myroides odoratus	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Myroides	Myroides odoratus	-	Human	null	
+Francisella tularensis	Bacteria	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Francisellaceae	Francisella	Francisella tularensis	-	Arthropod;Human;Insect;Mammal;Primate;Rodent;Vertebrate	BSL-3	Eye/Ear/Oral/Nasal
+Pseudomonas aeruginosa	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	-	Arthropod;Birds;Environment;Fungi;Human;Insect;Mammal;Plant;Reptile;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Endocrine system;Eye/Ear/Oral/Nasal;Immune system;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Burkholderia cepacia	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia cepacia	-	Environment;Human;Plant	BSL-2	Respiratory system
+Pseudomonas putida	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas putida	-	Arthropod;Birds;Fungi;Human;Mammal;Plant	BSL-2	Blood;Bone/Joint;Digestive system;Respiratory system;Urinary system
+Ralstonia pickettii	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia pickettii	-	Human	null	Blood
+Burkholderia glumae	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia glumae	-	Environment;Human	BSL-1	
+Legionella pneumophila	Bacteria	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella pneumophila	-	Environment;Human	BSL-2	Blood;Respiratory system
+Legionella bozemanae	Bacteria	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella bozemanae	-	Human	BSL-2	
+Legionella longbeachae	Bacteria	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella longbeachae	-	Human	BSL-2	Respiratory system
+Legionella jordanis	Bacteria	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella jordanis	-	Human	BSL-2	
+Acinetobacter baumannii	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter baumannii	-	Birds;Environment;Human;Insect;Mammal;Reptile;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Endocrine system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Moraxella nonliquefaciens	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Moraxella	Moraxella nonliquefaciens	-	Human	BSL-2	Eye/Ear/Oral/Nasal
+Moraxella catarrhalis	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Moraxella	Moraxella catarrhalis	-	Human	BSL-2	Eye/Ear/Oral/Nasal;Respiratory system
+Neisseria cinerea	Bacteria	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria cinerea	-	Human	BSL-1	
+Neisseria flavescens	Bacteria	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria flavescens	-	Human	BSL-2	Digestive system
+Neisseria gonorrhoeae	Bacteria	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria gonorrhoeae	-	Human	BSL-2	Digestive system;Eye/Ear/Oral/Nasal;Reproductive system;Urinary system
+Neisseria meningitidis	Bacteria	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria meningitidis	-	Environment;Human	BSL-2	Blood;Central nervous system;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Neisseria mucosa	Bacteria	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria mucosa	-	Human	BSL-2	Respiratory system
+Kingella kingae	Bacteria	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	Kingella kingae	-	Human	BSL-2	Bone/Joint
+Alcaligenes faecalis	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Alcaligenes	Alcaligenes faecalis	-	Birds;Human	null	Blood
+Bordetella bronchiseptica	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	Bordetella bronchiseptica	-	Birds;Human;Mammal;Rodent	BSL-2	Eye/Ear/Oral/Nasal;Respiratory system
+Bordetella parapertussis	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	Bordetella parapertussis	-	Human	BSL-2	Respiratory system
+Bordetella pertussis	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	Bordetella pertussis	-	Human	BSL-2	Digestive system;Respiratory system
+Brucella anthropi	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Brucellaceae	Brucella	Brucella anthropi	-	Human;Plant;Reptile	BSL-3	Blood
+Eikenella corrodens	Bacteria	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	Eikenella	Eikenella corrodens	-	Human	BSL-2	Bone/Joint;Eye/Ear/Oral/Nasal
+Citrobacter koseri	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter koseri	-	Environment;Human;Mammal;Rodent	BSL-2	Blood;Bone/Joint;Central nervous system;Digestive system;Respiratory system;Skin/Soft tissue;Urinary system
+Citrobacter freundii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter freundii	-	Amphibian;Birds;Environment;Human;Insect;Mammal;Plant;Reptile;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Immune system;Oncology;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Klebsiella aerogenes	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella aerogenes	-	Arthropod;Birds;Human;Mammal;Vertebrate	BSL-2	Blood;Bone/Joint;Central nervous system;Digestive system;Immune system;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Pantoea agglomerans	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Pantoea	Pantoea agglomerans	-	Human;Mammal;Plant;Reptile	BSL-3	
+Enterobacter cloacae	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae	-	Arthropod;Birds;Human;Mammal;Plant;Primate	BSL-3	Blood;Bone/Joint;Digestive system;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Escherichia coli	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	-	Amphibian;Arthropod;Birds;Environment;Food;Human;Insect;Mammal;Mollusc;Plant;Primate;Reptile;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Endocrine system;Eye/Ear/Oral/Nasal;Immune system;Oncology;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Escherichia fergusonii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia fergusonii	-	Birds;Human;Mammal	null	Digestive system
+Hafnia alvei	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Hafniaceae	Hafnia	Hafnia alvei	-	Environment;Human;Mammal	BSL-2	
+Klebsiella oxytoca	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella oxytoca	-	Birds;Human;Insect;Mammal;Rodent	BSL-2	Blood;Central nervous system;Digestive system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Klebsiella pneumoniae	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae	-	Amphibian;Arthropod;Birds;Environment;Food;Human;Insect;Mammal;Plant;Primate;Reptile;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Endocrine system;Eye/Ear/Oral/Nasal;Immune system;Oncology;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Morganella morganii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Morganella	Morganella morganii	-	Amphibian;Birds;Human;Mammal;Reptile;Rodent	BSL-2	Blood;Cardiovascular system;Central nervous system;Digestive system;Respiratory system;Skin/Soft tissue;Urinary system
+Proteus mirabilis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Proteus	Proteus mirabilis	-	Birds;Human;Insect;Mammal;Primate;Reptile;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Proteus vulgaris	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Proteus	Proteus vulgaris	-	Arthropod;Birds;Human;Mammal	BSL-2	Digestive system;Respiratory system
+Providencia rettgeri	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Providencia	Providencia rettgeri	-	Birds;Human;Insect;Mammal;Reptile	BSL-2	Blood;Bone/Joint;Central nervous system;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Providencia stuartii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Providencia	Providencia stuartii	-	Birds;Human;Insect;Reptile;Rodent	BSL-2	Blood;Digestive system;Endocrine system;Reproductive system;Respiratory system;Urinary system
+Serratia liquefaciens	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia	Serratia liquefaciens	-	Birds;Fungi;Human;Mammal;Plant	BSL-2	Blood;Digestive system
+Serratia marcescens	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia	Serratia marcescens	-	Arthropod;Birds;Human;Insect;Mammal;Plant;Reptile;Rodent	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Shigella boydii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella boydii	-	Birds;Environment;Human;Mammal	BSL-2	Digestive system
+Shigella dysenteriae	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella dysenteriae	-	Human;Mammal;Primate	BSL-2	Blood;Digestive system
+Shigella flexneri	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella flexneri	-	Arthropod;Environment;Human;Mammal;Primate;Rodent	BSL-2	Digestive system;Urinary system
+Shigella sonnei	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella sonnei	-	Birds;Human;Mammal;Primate	BSL-2	Blood;Digestive system;Urinary system
+Yersinia enterocolitica	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Yersinia	Yersinia enterocolitica	-	Birds;Human;Mammal;Primate;Rodent	BSL-2	Blood;Digestive system;Eye/Ear/Oral/Nasal
+Yersinia intermedia	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Yersinia	Yersinia intermedia	-	Birds;Human;Mammal;Rodent;Vertebrate	BSL-2	
+Yersinia pestis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Yersinia	Yersinia pestis	-	Arthropod;Human;Mammal;Rodent	BSL-3	Blood
+Yersinia pseudotuberculosis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Yersinia	Yersinia pseudotuberculosis	-	Birds;Human;Mammal;Primate;Rodent	BSL-2	Digestive system;Respiratory system
+Edwardsiella tarda	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Hafniaceae	Edwardsiella	Edwardsiella tarda	-	Amphibian;Arthropod;Human;Mammal;Reptile;Vertebrate	BSL-2	
+Aeromonas hydrophila	Bacteria	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas hydrophila	-	Human;Mammal;Plant;Vertebrate	BSL-2	Blood;Digestive system;Skin/Soft tissue;Urinary system
+Aeromonas caviae	Bacteria	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas caviae	-	Environment;Human;Mammal;Rodent;Vertebrate	BSL-2	Blood;Central nervous system;Digestive system;Immune system;Respiratory system;Skin/Soft tissue;Urinary system
+Aeromonas jandaei	Bacteria	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas jandaei	-	Human;Vertebrate	BSL-2	
+Aeromonas media	Bacteria	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas media	-	Food;Human;Vertebrate	BSL-1	Digestive system
+Aeromonas schubertii	Bacteria	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas schubertii	-	Human;Vertebrate	BSL-2	
+Aeromonas veronii	Bacteria	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas veronii	-	Birds;Food;Human;Mammal;Mollusc;Plant;Vertebrate	BSL-2	Blood;Digestive system;Respiratory system
+Vibrio alginolyticus	Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio alginolyticus	-	Arthropod;Environment;Human;Mammal;Mollusc;Reptile;Vertebrate	BSL-2	
+Vibrio cholerae	Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio cholerae	-	Amphibian;Arthropod;Birds;Environment;Human;Mammal;Mollusc;Reptile;Vertebrate	BSL-2	Blood;Digestive system;Eye/Ear/Oral/Nasal;Urinary system
+Vibrio parahaemolyticus	Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio parahaemolyticus	-	Arthropod;Birds;Environment;Human;Mammal;Mollusc;Vertebrate	BSL-2	Digestive system;Skin/Soft tissue
+Vibrio vulnificus	Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio vulnificus	-	Arthropod;Human;Mammal;Mollusc;Reptile;Vertebrate	BSL-2	Blood;Bone/Joint;Digestive system;Skin/Soft tissue
+Vibrio mimicus	Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio mimicus	-	Arthropod;Environment;Human;Vertebrate	BSL-2	Digestive system
+Vibrio fluvialis	Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio fluvialis	-	Arthropod;Environment;Human;Vertebrate	null	Digestive system;Skin/Soft tissue
+Plesiomonas shigelloides	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Plesiomonas	Plesiomonas shigelloides	-	Amphibian;Birds;Human;Vertebrate	BSL-2	Blood;Digestive system
+Aggregatibacter actinomycetemcomitans	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	Aggregatibacter actinomycetemcomitans	-	Human;Insect;Primate	BSL-2	Digestive system;Eye/Ear/Oral/Nasal;Skin/Soft tissue
+Haemophilus haemolyticus	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus haemolyticus	-	Human	BSL-1	Blood;Respiratory system
+Haemophilus influenzae	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus influenzae	-	Human	BSL-2	Blood;Bone/Joint;Central nervous system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue
+Haemophilus parainfluenzae	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus parainfluenzae	-	Human	null	Cardiovascular system;Digestive system;Respiratory system;Urinary system
+Haemophilus ducreyi	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus ducreyi	-	Human	BSL-2	Skin/Soft tissue
+Haemophilus parahaemolyticus	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus parahaemolyticus	-	Human	BSL-2	Respiratory system
+Haemophilus paraphrohaemolyticus	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus paraphrohaemolyticus	-	Human	BSL-2	
+Pasteurella multocida	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Pasteurella	Pasteurella multocida	+	Birds;Environment;Human;Insect;Mammal;Primate;Rodent	BSL-2	Blood;Cardiovascular system;Central nervous system;Digestive system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue
+Bartonella bacilliformis	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bartonellaceae	Bartonella	Bartonella bacilliformis	-	Human	BSL-2	
+Coxiella burnetii	Bacteria	Pseudomonadota	Gammaproteobacteria	Legionellales	Coxiellaceae	Coxiella	Coxiella burnetii	-	Arthropod;Human;Mammal;Rodent	BSL-3	Reproductive system
+Rickettsia conorii	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	Rickettsia conorii	-	Arthropod;Human;Mollusc	BSL-3	
+Rickettsia prowazekii	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	Rickettsia prowazekii	-	Human	BSL-3	
+Rickettsia rickettsii	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	Rickettsia rickettsii	-	Arthropod;Human	BSL-3	
+Orientia tsutsugamushi	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Orientia	Orientia tsutsugamushi	null	Human	BSL-3	
+Rickettsia akari	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	Rickettsia akari	-	Human	BSL-3	
+Bartonella quintana	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bartonellaceae	Bartonella	Bartonella quintana	-	Human;Primate	BSL-2	
+Chlamydia trachomatis	Bacteria	Chlamydiota	Chlamydiia	Chlamydiales	Chlamydiaceae	Chlamydia	Chlamydia trachomatis	-	Human;Primate	BSL-2	Digestive system;Eye/Ear/Oral/Nasal;Reproductive system
+Bacteroides fragilis	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis	-	Arthropod;Birds;Human;Mammal;Primate;Rodent	BSL-2	Blood;Bone/Joint;Digestive system;Skin/Soft tissue
+Porphyromonas gingivalis	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas gingivalis	-	Human	BSL-2	Eye/Ear/Oral/Nasal;Respiratory system;Skin/Soft tissue
+Fusobacterium gonidiaformans	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium gonidiaformans	-	Human	null	
+Fusobacterium nucleatum	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium nucleatum	-	Human;Mammal	BSL-2	Bone/Joint;Digestive system;Eye/Ear/Oral/Nasal
+Faecalibacterium prausnitzii	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium prausnitzii	-	Human;Mammal	null	
+Fusobacterium varium	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium varium	-	Human;Mammal	BSL-2	Digestive system
+Fusobacterium necrophorum	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium necrophorum	-	Human;Mammal	BSL-2	Digestive system;Respiratory system
+Fusobacterium periodonticum	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium periodonticum	-	Human	null	
+Fusobacterium ulcerans	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium ulcerans	-	Birds;Human;Mammal	BSL-2	
+Ehrlichia chaffeensis	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	Ehrlichia	Ehrlichia chaffeensis	-	Human	BSL-2	
+Anaplasma phagocytophilum	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	Anaplasma	Anaplasma phagocytophilum	-	Arthropod;Human;Mammal	BSL-2	
+Capnocytophaga sputigena	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga sputigena	null	Human	BSL-2	
+Afipia clevelandensis	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Nitrobacteraceae	Afipia	Afipia clevelandensis	-	Human	BSL-2	
+Afipia felis	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Nitrobacteraceae	Afipia	Afipia felis	-	Human	BSL-2	
+Peptostreptococcus anaerobius	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Peptostreptococcus	Peptostreptococcus anaerobius	+	Human	BSL-2	
+Sarcina ventriculi	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Sarcina	Sarcina ventriculi	+	Human;Mammal;Primate	BSL-1	
+Micrococcus luteus	Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	Micrococcus	Micrococcus luteus	+	Human;Mammal;Vertebrate	BSL-1	
+Staphylococcus aureus	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus	+	Arthropod;Birds;Environment;Food;Human;Mammal;Primate;Reptile;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Endocrine system;Eye/Ear/Oral/Nasal;Immune system;Oncology;Reproductive system;Respiratory system;Skin;Skin/Soft tissue;Urinary system
+Staphylococcus epidermidis	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus epidermidis	+	Birds;Human;Insect;Mammal;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Endocrine system;Eye/Ear/Oral/Nasal;Reproductive system;Skin/Soft tissue;Urinary system
+Staphylococcus haemolyticus	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus haemolyticus	+	Human;Mammal;Rodent	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Endocrine system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Staphylococcus xylosus	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus xylosus	+	Arthropod;Birds;Human;Mammal;Reptile;Rodent	BSL-1	Reproductive system;Urinary system
+Staphylococcus hominis	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus hominis	+	Arthropod;Birds;Human;Mammal	BSL-2	Blood;Immune system;Reproductive system
+Staphylococcus warneri	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus warneri	+	Human;Mammal;Primate;Rodent;Vertebrate	BSL-1	Blood;Central nervous system;Digestive system;Reproductive system;Respiratory system;Urinary system
+Staphylococcus schleiferi	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus schleiferi	+	Human;Mammal	BSL-2	Eye/Ear/Oral/Nasal;Skin/Soft tissue
+Streptococcus gordonii	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus gordonii	+	Human	BSL-2	Cardiovascular system;Eye/Ear/Oral/Nasal;Respiratory system
+Streptococcus oralis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus oralis	+	Human;Primate;Rodent	BSL-2	Cardiovascular system;Eye/Ear/Oral/Nasal
+Streptococcus salivarius	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius	+	Human	BSL-2	Blood;Cardiovascular system;Digestive system;Eye/Ear/Oral/Nasal;Respiratory system;Skin/Soft tissue
+Streptococcus sanguinis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sanguinis	+	Human;Mammal;Primate	BSL-2	Cardiovascular system;Skin/Soft tissue
+Streptococcus suis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus suis	+	Birds;Human;Mammal	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Respiratory system
+Streptococcus sobrinus	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sobrinus	+	Human;Rodent	BSL-2	
+Streptococcus agalactiae	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus agalactiae	+	Amphibian;Birds;Human;Mammal;Reptile;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Streptococcus pneumoniae	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pneumoniae	+	Human;Mammal;Primate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Streptococcus pyogenes	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pyogenes	+	Human	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Streptococcus parasanguinis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus parasanguinis	+	Human;Vertebrate	BSL-2	Cardiovascular system;Digestive system;Eye/Ear/Oral/Nasal;Respiratory system
+Streptococcus anginosus	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus anginosus	+	Human	BSL-2	Blood;Cardiovascular system;Digestive system;Eye/Ear/Oral/Nasal
+Streptococcus canis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus canis	+	Human;Mammal	BSL-2	Blood;Bone/Joint;Cardiovascular system;Digestive system;Eye/Ear/Oral/Nasal
+Streptococcus dysgalactiae	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus dysgalactiae	+	Human;Mammal;Vertebrate	BSL-2	Blood;Cardiovascular system;Digestive system;Eye/Ear/Oral/Nasal;Reproductive system;Skin/Soft tissue
+Streptococcus equinus	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus equinus	+	Human;Mammal	BSL-2	Respiratory system
+Streptococcus equi	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus equi	+	Human;Mammal;Primate;Rodent	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Eye/Ear/Oral/Nasal;Immune system;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Streptococcus intermedius	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus intermedius	+	Human	BSL-2	Digestive system
+Streptococcus vestibularis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus vestibularis	+	Human	BSL-2	Blood;Cardiovascular system;Eye/Ear/Oral/Nasal;Respiratory system
+Streptococcus iniae	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus iniae	+	Human;Mammal;Vertebrate	BSL-2	Blood
+Streptococcus uberis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus uberis	+	Human;Mammal	BSL-2	Reproductive system
+Enterococcus faecalis	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis	+	Birds;Environment;Human;Mammal;Plant;Primate;Reptile;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Endocrine system;Eye/Ear/Oral/Nasal;Immune system;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Enterococcus faecium	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecium	+	Birds;Environment;Human;Mammal;Mollusc;Plant;Primate;Reptile;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Endocrine system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Enterococcus gallinarum	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus gallinarum	+	Birds;Human;Mammal;Plant;Primate;Rodent	BSL-2	Blood;Bone/Joint;Digestive system;Urinary system
+Lactococcus lactis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus lactis	+	Arthropod;Human;Insect;Mammal;Plant;Primate;Reptile;Rodent;Vertebrate	BSL-1	
+Lactococcus garvieae	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus garvieae	+	Human;Mammal;Rodent;Vertebrate	BSL-2	Cardiovascular system;Digestive system;Reproductive system;Respiratory system
+Gemella haemolysans	Bacteria	Bacillota	Bacilli	Bacillales	Gemellaceae	Gemella	Gemella haemolysans	+	Human	null	Eye/Ear/Oral/Nasal;Respiratory system
+Bacillus anthracis	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis	+	Environment;Human;Mammal;Plant	BSL-3	Reproductive system;Skin/Soft tissue
+Bacillus cereus	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	+	Arthropod;Birds;Environment;Human;Mammal;Plant;Primate;Reptile;Rodent;Vertebrate	BSL-2	Blood;Central nervous system;Digestive system;Eye/Ear/Oral/Nasal;Respiratory system;Skin/Soft tissue
+Bacillus licheniformis	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis	+	Arthropod;Birds;Human;Mammal;Plant;Rodent	BSL-1	Respiratory system
+Bacillus pumilus	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus pumilus	+	Arthropod;Birds;Human;Mammal;Plant;Primate;Reptile	BSL-1	
+Bacillus subtilis	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	+	Arthropod;Birds;Fungi;Human;Mammal;Mollusc;Plant;Primate;Rodent;Vertebrate	BSL-1	Blood
+Bacillus thuringiensis	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis	+	Arthropod;Birds;Human;Mammal;Plant;Reptile;Rodent	BSL-2	
+Brevibacillus laterosporus	Bacteria	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Brevibacillus	Brevibacillus laterosporus	+	Human;Insect;Mammal;Plant	null	
+Clostridium botulinum	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium botulinum	+	Arthropod;Birds;Human;Mammal	BSL-2	Central nervous system;Digestive system;Skin/Soft tissue
+Clostridioides difficile	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile	+	Birds;Environment;Human;Insect;Mammal;Primate;Rodent	BSL-2	Blood;Cardiovascular system;Digestive system;Respiratory system;Skin/Soft tissue;Urinary system
+Clostridium perfringens	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium perfringens	+	Birds;Human;Mammal;Primate;Rodent	BSL-2	Blood;Digestive system;Skin/Soft tissue
+Clostridium septicum	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium septicum	+	Birds;Human	null	
+Paraclostridium sordellii	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Paraclostridium	Paraclostridium sordellii	-	Human;Mammal;Rodent	BSL-2	Digestive system
+Clostridium symbiosum	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Otoolea	Clostridium symbiosum	+	Birds;Human;Mammal;Rodent	BSL-2	
+Clostridium tetani	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium tetani	+	Human	BSL-2	
+Clostridium cadaveris	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium cadaveris	+	Birds;Human;Mammal	BSL-2	
+Clostridium novyi	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium novyi	+	Birds;Human;Mammal	BSL-2	
+Thomasclavelia ramosa	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Coprobacillaceae	Thomasclavelia	Thomasclavelia ramosa	+	Human;Mammal;Rodent	null	
+Clostridium tertium	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium tertium	+	Human;Mammal	BSL-2	
+Clostridium baratii	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium baratii	+	Human;Mammal	BSL-2	Central nervous system
+Lactobacillus acidophilus	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus acidophilus	+	Birds;Human;Mammal	BSL-1	
+Lactiplantibacillus plantarum	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactiplantibacillus	Lactiplantibacillus plantarum	+	Arthropod;Birds;Human;Insect;Mammal;Plant;Rodent;Vertebrate	BSL-1	
+Lactobacillus gasseri	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus gasseri	+	Human;Mammal	BSL-1	
+Latilactobacillus sakei	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Latilactobacillus	Latilactobacillus sakei	+	Human;Mammal;Vertebrate	null	
+Limosilactobacillus fermentum	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus fermentum	+	Birds;Food;Human;Mammal;Plant	BSL-1	
+Listeria monocytogenes	Bacteria	Bacillota	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	+	Arthropod;Birds;Environment;Food;Human;Mammal;Mollusc;Plant;Primate;Reptile;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Listeria grayi	Bacteria	Bacillota	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria grayi	+	Human	BSL-1	
+Listeria innocua	Bacteria	Bacillota	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria innocua	+	Birds;Food;Human;Mammal	BSL-1	
+Erysipelothrix rhusiopathiae	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelothrix	Erysipelothrix rhusiopathiae	+	Human;Mammal;Vertebrate	BSL-2	Blood;Bone/Joint;Skin/Soft tissue
+Actinomyces naeslundii	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces naeslundii	+	Human	BSL-2	
+Actinomyces israelii	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces israelii	+	Human	BSL-2	Central nervous system
+Trueperella pyogenes	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	Trueperella	Trueperella pyogenes	+	Human;Mammal	BSL-2	Immune system;Reproductive system
+Corynebacterium diphtheriae	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium diphtheriae	+	Human	BSL-2	Blood;Bone/Joint;Cardiovascular system;Digestive system;Eye/Ear/Oral/Nasal;Respiratory system;Skin/Soft tissue
+Corynebacterium pseudotuberculosis	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pseudotuberculosis	+	Human;Mammal	BSL-2	Blood;Bone/Joint;Digestive system;Immune system;Respiratory system;Skin/Soft tissue;Urinary system
+Corynebacterium xerosis	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium xerosis	+	Birds;Human;Mammal	BSL-1	Eye/Ear/Oral/Nasal
+Cutibacterium acnes	Bacteria	Actinomycetota	Actinomycetes	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes	+	Birds;Human;Primate;Rodent	null	Bone/Joint;Eye/Ear/Oral/Nasal;Skin/Soft tissue
+Arachnia propionica	Bacteria	Actinomycetota	Actinomycetes	Propionibacteriales	Propionibacteriaceae	Arachnia	Arachnia propionica	+	Human;Mammal	BSL-2	Eye/Ear/Oral/Nasal
+Mycobacterium avium	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium avium	+	Birds;Human;Mammal;Primate	BSL-2	Blood;Respiratory system
+Mycolicibacterium fortuitum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycolicibacterium	Mycolicibacterium fortuitum	+	Human;Mammal;Vertebrate	BSL-2	Respiratory system
+Mycobacterium kansasii	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium kansasii	+	Birds;Human;Mammal;Primate	BSL-2	Respiratory system
+Mycobacterium leprae	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium leprae	+	Human	BSL-2	
+Mycolicibacterium smegmatis	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycolicibacterium	Mycolicibacterium smegmatis	+	Human	null	
+Mycobacterium tuberculosis	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium tuberculosis	+	Human;Mammal;Primate	BSL-3	Central nervous system;Digestive system;Eye/Ear/Oral/Nasal;Respiratory system
+Mycobacteroides chelonae	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacteroides	Mycobacteroides chelonae	-	Human;Mammal;Reptile;Vertebrate	BSL-2	Respiratory system;Skin/Soft tissue
+Mycobacterium gordonae	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium gordonae	+	Human	null	Blood
+Mycobacterium malmoense	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium malmoense	+	Human	BSL-2	
+Mycobacterium scrofulaceum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium scrofulaceum	+	Human	BSL-2	Immune system
+Mycobacterium simiae	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium simiae	+	Human	BSL-2	Respiratory system
+Mycobacterium szulgai	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium szulgai	+	Human	BSL-2	
+Mycobacterium xenopi	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium xenopi	+	Amphibian;Human	BSL-2	Respiratory system
+Mycobacterium ulcerans	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium ulcerans	+	Human;Mammal	BSL-2	Skin/Soft tissue
+Nocardia otitidiscaviarum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Nocardia	Nocardia otitidiscaviarum	+	Human;Rodent	BSL-2	Respiratory system
+Nocardia asteroides	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Nocardia	Nocardia asteroides	+	Human	BSL-2	
+Actinomadura madurae	Bacteria	Actinomycetota	Actinomycetes	Streptosporangiales	Thermomonosporaceae	Actinomadura	Actinomadura madurae	+	Human	BSL-2	Skin/Soft tissue
+Rothia dentocariosa	Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	Rothia	Rothia dentocariosa	+	Human	BSL-2	Respiratory system
+Mycoplasma capricolum	Bacteria	Mycoplasmatota	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	Mycoplasma capricolum	+	Human;Mammal	null	Central nervous system;Reproductive system;Respiratory system
+Mycoplasmoides genitalium	Bacteria	Mycoplasmatota		Mycoplasmoidales	Mycoplasmoidaceae	Mycoplasmoides	Mycoplasmoides genitalium	+	Human	BSL-2	
+Mycoplasmoides pneumoniae	Bacteria	Mycoplasmatota		Mycoplasmoidales	Mycoplasmoidaceae	Mycoplasmoides	Mycoplasmoides pneumoniae	+	Human	BSL-2	Respiratory system
+Gardnerella vaginalis	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Gardnerella	Gardnerella vaginalis	-	Human	BSL-2	Blood;Reproductive system
+Burkholderia mallei	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia mallei	-	Human;Mammal	BSL-3	Eye/Ear/Oral/Nasal
+Streptococcus mitis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus mitis	+	Human;Primate	BSL-2	Blood;Cardiovascular system;Eye/Ear/Oral/Nasal
+Campylobacter upsaliensis	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter upsaliensis	-	Human;Mammal	BSL-2	
+Acinetobacter lwoffii	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter lwoffii	-	Arthropod;Birds;Human;Mammal	BSL-2	Blood;Respiratory system
+Burkholderia gladioli	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia gladioli	-	Environment;Human;Mammal;Plant	BSL-2	Eye/Ear/Oral/Nasal;Respiratory system
+Tannerella forsythia	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Tannerella	Tannerella forsythia	-	Human;Mammal	null	Eye/Ear/Oral/Nasal
+Bacteroides ovatus	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides ovatus	-	Birds;Human;Mammal;Rodent	null	Blood;Digestive system
+Bacteroides zoogleoformans	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides zoogleoformans	-	Human	BSL-2	Eye/Ear/Oral/Nasal
+Porphyromonas asaccharolytica	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas asaccharolytica	-	Human	BSL-2	Respiratory system
+Prevotella bivia	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella bivia	-	Human	BSL-2	
+Segatella buccae	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	Segatella buccae	-	Human	BSL-2	Respiratory system
+Hoylesella buccalis	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Hoylesella	Hoylesella buccalis	-	Human	BSL-2	
+Prevotella corporis	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella corporis	-	Human	BSL-2	
+Prevotella denticola	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella denticola	-	Human	BSL-2	Digestive system;Respiratory system;Skin/Soft tissue
+Prevotella disiens	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella disiens	-	Human	BSL-2	
+Prevotella intermedia	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella intermedia	-	Human	BSL-2	Bone/Joint;Eye/Ear/Oral/Nasal;Respiratory system;Skin/Soft tissue
+Prevotella melaninogenica	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella melaninogenica	-	Human	BSL-2	Respiratory system
+Prevotella nigrescens	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella nigrescens	-	Human	BSL-2	Digestive system;Eye/Ear/Oral/Nasal;Respiratory system
+Hoylesella oralis	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Hoylesella	Hoylesella oralis	-	Human	BSL-2	
+Segatella oris	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	Segatella oris	-	Human	BSL-2	Eye/Ear/Oral/Nasal
+Segatella oulorum	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	Segatella oulorum	-	Human	BSL-2	
+Cronobacter sakazakii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cronobacter	Cronobacter sakazakii	-	Arthropod;Birds;Human;Insect;Mammal;Reptile	BSL-2	Blood;Central nervous system;Digestive system;Respiratory system;Urinary system
+Vibrio metschnikovii	Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio metschnikovii	-	Arthropod;Birds;Human	BSL-2	
+Capnocytophaga canimorsus	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga canimorsus	null	Human;Mammal	BSL-2	Blood
+Arcanobacterium haemolyticum	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	Arcanobacterium	Arcanobacterium haemolyticum	+	Human;Mammal	BSL-2	Skin/Soft tissue
+Neisseria subflava	Bacteria	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria subflava	-	Human	null	
+Burkholderia pseudomallei	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia pseudomallei	-	Birds;Environment;Human;Mammal;Primate;Reptile;Rodent	BSL-3	Blood;Central nervous system;Digestive system;Immune system;Respiratory system
+Salmonella enterica	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	-	Amphibian;Arthropod;Birds;Environment;Food;Human;Mammal;Mollusc;Plant;Primate;Reptile;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Endocrine system;Eye/Ear/Oral/Nasal;Immune system;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Mycobacterium haemophilum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium haemophilum	+	Human	null	Respiratory system
+Clostridium paraputrificum	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium paraputrificum	+	Birds;Human;Mammal;Rodent	BSL-2	Digestive system
+Staphylococcus auricularis	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus auricularis	+	Birds;Human;Mammal	BSL-1	Reproductive system
+Staphylococcus cohnii	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus cohnii	+	Arthropod;Birds;Human;Mammal	BSL-1	Reproductive system
+Staphylococcus saprophyticus	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus saprophyticus	+	Birds;Human;Mammal;Plant;Rodent	BSL-2	Blood;Digestive system;Reproductive system;Urinary system
+Acinetobacter haemolyticus	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter haemolyticus	-	Environment;Human	BSL-2	Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Brucella melitensis	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Brucellaceae	Brucella	Brucella melitensis	-	Human;Mammal;Rodent	BSL-3	Blood;Bone/Joint;Cardiovascular system;Reproductive system
+Brucella suis	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Brucellaceae	Brucella	Brucella suis	-	Human;Mammal	BSL-3	Blood;Reproductive system
+Veillonella parvula	Bacteria	Bacillota	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella parvula	-	Human	null	Eye/Ear/Oral/Nasal
+Yersinia frederiksenii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Yersinia	Yersinia frederiksenii	-	Environment;Human;Mammal	BSL-2	
+Vibrio furnissii	Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio furnissii	-	Human	BSL-2	
+Brachyspira aalborgi	Bacteria	Spirochaetota	Spirochaetia	Brachyspirales	Brachyspiraceae	Brachyspira	Brachyspira aalborgi	null	Human	BSL-2	Digestive system
+Parvimonas micra	Bacteria	Bacillota	Tissierellia	Tissierellales	Peptoniphilaceae	Parvimonas	Parvimonas micra	+	Human	null	Digestive system;Respiratory system
+Streptococcus milleri	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus milleri	+	Human;Rodent	BSL-2	
+Coprococcus eutactus	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	Coprococcus eutactus	+	Human	null	
+Enterococcus avium	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus avium	+	Birds;Human;Mammal;Primate;Rodent;Vertebrate	BSL-2	Blood;Digestive system;Skin/Soft tissue
+Moraxella atlantae	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Faucicola	Moraxella atlantae	-	Human	BSL-2	Blood
+Streptobacillus moniliformis	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Streptobacillus	Streptobacillus moniliformis	-	Birds;Human;Rodent	BSL-2	
+Citrobacter amalonaticus	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter amalonaticus	-	Arthropod;Environment;Human;Mammal;Rodent	BSL-2	Skin/Soft tissue;Urinary system
+Rickettsia japonica	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	Rickettsia japonica	-	Human	BSL-3	
+Bordetella holmesii	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	Bordetella holmesii	-	Human	BSL-2	
+Helicobacter pullorum	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter pullorum	-	Birds;Human	BSL-2	Digestive system
+Corynebacterium bovis	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium bovis	+	Human;Mammal;Rodent	BSL-2	
+Mycobacteroides abscessus	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacteroides	Mycobacteroides abscessus	-	Human	null	Digestive system;Eye/Ear/Oral/Nasal;Respiratory system;Skin/Soft tissue
+Brucella canis	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Brucellaceae	Brucella	Brucella canis	-	Environment;Human;Mammal	BSL-3	Blood
+Nocardia brasiliensis	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Nocardia	Nocardia brasiliensis	+	Human	BSL-2	
+Nocardia farcinica	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Nocardia	Nocardia farcinica	+	Human;Mammal	BSL-2	Bone/Joint;Respiratory system;Skin/Soft tissue
+Nocardia nova	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Nocardia	Nocardia nova	+	Human;Plant	BSL-2	Respiratory system
+Nocardia transvalensis	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Nocardia	Nocardia transvalensis	+	Human	BSL-2	
+Helicobacter bilis	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter bilis	-	Human;Mammal;Rodent	BSL-2	Digestive system
+Corynebacterium pseudodiphtheriticum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pseudodiphtheriticum	+	Human	BSL-2	
+Enterococcus casseliflavus	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus casseliflavus	+	Arthropod;Birds;Environment;Human;Mammal	BSL-2	Blood;Urinary system
+Corynebacterium genitalium	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium genitalium	+	Human	null	
+Corynebacterium jeikeium	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium jeikeium	+	Human	BSL-2	Digestive system
+Corynebacterium macginleyi	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium macginleyi	+	Human	BSL-2	Eye/Ear/Oral/Nasal
+Photobacterium damselae	Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium damselae	null	Arthropod;Human;Mammal;Vertebrate	BSL-2	
+Corynebacterium minutissimum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium minutissimum	+	Human	BSL-2	Skin/Soft tissue
+Corynebacterium tuberculostearicum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium tuberculostearicum	+	Human	null	
+Bartonella henselae	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bartonellaceae	Bartonella	Bartonella henselae	-	Human;Mammal	BSL-2	Blood;Cardiovascular system
+Veillonella atypica	Bacteria	Bacillota	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella atypica	-	Human	BSL-1	Eye/Ear/Oral/Nasal
+Veillonella dispar	Bacteria	Bacillota	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella dispar	-	Human	BSL-1	
+Acinetobacter johnsonii	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter johnsonii	-	Arthropod;Birds;Human;Mammal;Vertebrate	BSL-2	Blood;Respiratory system
+Acinetobacter junii	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter junii	-	Human;Mammal;Plant	BSL-2	Blood;Respiratory system;Skin/Soft tissue;Urinary system
+Acinetobacter radioresistens	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter radioresistens	-	Birds;Human;Mammal;Plant;Reptile;Rodent	BSL-1	Blood;Bone/Joint;Respiratory system;Skin/Soft tissue
+Stenotrophomonas maltophilia	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	Stenotrophomonas	Stenotrophomonas maltophilia	-	Arthropod;Birds;Human;Insect;Mammal;Mollusc;Plant;Primate;Reptile;Rodent;Vertebrate	null	Blood;Digestive system;Respiratory system;Skin/Soft tissue;Urinary system
+Rickettsia felis	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	Rickettsia felis	-	Human;Mammal	BSL-3	
+Rothia mucilaginosa	Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	Rothia	Rothia mucilaginosa	+	Human	null	
+Prescottella equi	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Prescottella	Prescottella equi	+	Human;Mammal	BSL-2	Digestive system;Respiratory system
+Corynebacterium propinquum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium propinquum	+	Human	BSL-2	
+Corynebacterium striatum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium striatum	+	Human	BSL-2	Blood;Cardiovascular system;Respiratory system
+Enterococcus pseudoavium	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus pseudoavium	+	Birds;Human;Mammal;Vertebrate	BSL-2	
+Dysgonomonas capnocytophagoides	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Dysgonomonadaceae	Dysgonomonas	Dysgonomonas capnocytophagoides	null	Human	null	Digestive system
+Streptococcus cristatus	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus cristatus	+	Human	BSL-1	Cardiovascular system;Skin/Soft tissue
+Staphylococcus pasteuri	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus pasteuri	+	Human;Mammal;Primate;Rodent	BSL-2	Cardiovascular system;Reproductive system;Skin/Soft tissue
+Granulicatella adiacens	Bacteria	Bacillota	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella	Granulicatella adiacens	null	Human;Rodent	BSL-2	
+Abiotrophia defectiva	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Abiotrophia	Abiotrophia defectiva	null	Human	BSL-2	Cardiovascular system
+Borrelia miyamotoi	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Borreliaceae	Borrelia	Borrelia miyamotoi	-	Arthropod;Human	null	
+Bacteroides caccae	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides caccae	-	Human	BSL-2	
+Lacticaseibacillus rhamnosus	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lacticaseibacillus	Lacticaseibacillus rhamnosus	+	Birds;Human;Mammal;Plant;Rodent	BSL-1	Cardiovascular system
+Pseudomonas fulva	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fulva	-	Human;Mammal;Plant	BSL-1	Blood;Respiratory system
+Pseudomonas oryzihabitans	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas oryzihabitans	-	Arthropod;Birds;Human;Mammal;Plant	BSL-2	
+Acinetobacter pittii	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter pittii	-	Human;Mammal;Plant;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Prevotella dentalis	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella dentalis	-	Human;Mammal	BSL-1	
+Brachyspira pilosicoli	Bacteria	Spirochaetota	Spirochaetia	Brachyspirales	Brachyspiraceae	Brachyspira	Brachyspira pilosicoli	null	Birds;Human;Mammal	BSL-2	Digestive system
+Actinomyces gerencseriae	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces gerencseriae	+	Human	BSL-2	Digestive system
+Schaalia meyeri	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	Schaalia	Schaalia meyeri	null	Human	BSL-2	Eye/Ear/Oral/Nasal
+Enterococcus durans	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus durans	+	Birds;Environment;Human;Insect;Mammal	BSL-2	
+Enterococcus mundtii	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus mundtii	+	Birds;Environment;Human;Mammal	BSL-1	
+Nocardia flavorosea	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Nocardia	Nocardia flavorosea	+	Human	BSL-1	
+Salmonella bongori	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella bongori	-	Birds;Human	BSL-2	Digestive system
+Actinomyces graevenitzii	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces graevenitzii	+	Human	null	
+Corynebacterium mucifaciens	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium mucifaciens	+	Human	BSL-2	
+Citrobacter braakii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter braakii	-	Amphibian;Birds;Environment;Human;Mammal;Reptile	BSL-2	Bone/Joint;Central nervous system;Digestive system;Skin/Soft tissue;Urinary system
+Prevotella pallens	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella pallens	-	Human	BSL-2	
+Burkholderia vietnamiensis	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia vietnamiensis	-	Environment;Human;Plant	BSL-2	Respiratory system
+Enterobacter asburiae	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter asburiae	-	Birds;Human;Insect;Mammal;Plant;Primate;Rodent	BSL-1	Blood;Digestive system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Serratia rubidaea	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia	Serratia rubidaea	-	Human;Insect;Mammal;Plant	null	
+Corynebacterium ulcerans	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium ulcerans	+	Human;Mammal	BSL-2	Digestive system;Endocrine system;Eye/Ear/Oral/Nasal;Respiratory system;Skin/Soft tissue
+Citrobacter farmeri	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter farmeri	-	Human	BSL-2	Blood;Digestive system;Skin/Soft tissue;Urinary system
+Citrobacter sedlakii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter sedlakii	-	Human;Mammal	BSL-2	Digestive system
+Streptococcus infantis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus infantis	+	Human;Primate	BSL-2	Digestive system
+Enterobacter cancerogenus	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cancerogenus	-	Human;Mammal;Plant	BSL-2	Blood;Respiratory system;Skin/Soft tissue
+Staphylococcus condimenti	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus condimenti	+	Human	BSL-1	Skin/Soft tissue
+Achromobacter piechaudii	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Achromobacter	Achromobacter piechaudii	-	Human	BSL-2	
+Achromobacter ruhlandii	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Achromobacter	Achromobacter ruhlandii	-	Human;Mammal	BSL-2	Respiratory system
+Pseudomonas monteilii	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas monteilii	-	Human;Mammal	BSL-1	Blood;Respiratory system;Urinary system
+Streptococcus constellatus	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus constellatus	+	Human	BSL-2	Digestive system;Eye/Ear/Oral/Nasal;Respiratory system
+Streptococcus viridans	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus viridans	+	Human	BSL-2	
+Serratia plymuthica	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia	Serratia plymuthica	-	Human;Plant	BSL-1	
+Chlamydia psittaci	Bacteria	Chlamydiota	Chlamydiia	Chlamydiales	Chlamydiaceae	Chlamydia	Chlamydia psittaci	-	Birds;Human;Mammal;Reptile;Rodent;Vertebrate	BSL-2	Bone/Joint;Digestive system;Respiratory system
+Chlamydia abortus	Bacteria	Chlamydiota	Chlamydiia	Chlamydiales	Chlamydiaceae	Chlamydia	Chlamydia abortus	-	Birds;Human;Mammal	null	Respiratory system
+Chlamydia pneumoniae	Bacteria	Chlamydiota	Chlamydiia	Chlamydiales	Chlamydiaceae	Chlamydia	Chlamydia pneumoniae	-	Human	BSL-2	
+Clostridium disporicum	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium disporicum	+	Human	BSL-1	
+Clostridium haemolyticum	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium haemolyticum	+	Human	BSL-2	Bone/Joint
+Gemella sanguinis	Bacteria	Bacillota	Bacilli	Bacillales	Gemellaceae	Gemella	Gemella sanguinis	+	Human	null	Respiratory system
+Nocardia cerradoensis	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Nocardia	Nocardia cerradoensis	+	Human	BSL-1	
+Sphingomonas koreensis	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas koreensis	-	Human	BSL-1	
+Nocardia beijingensis	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Nocardia	Nocardia beijingensis	+	Human	BSL-2	
+Burkholderia cenocepacia	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia cenocepacia	-	Human;Plant	BSL-2	Blood;Eye/Ear/Oral/Nasal;Respiratory system
+Proteus penneri	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Proteus	Proteus penneri	-	Birds;Human;Mammal	BSL-2	
+Actinomyces urogenitalis	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces urogenitalis	+	Human;Mammal	BSL-1	
+Acinetobacter bereziniae	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter bereziniae	-	Birds;Human;Mammal;Reptile	BSL-2	Blood;Central nervous system;Digestive system;Eye/Ear/Oral/Nasal;Respiratory system;Skin/Soft tissue
+Acinetobacter guillouiae	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter guillouiae	-	Human;Reptile	BSL-2	Respiratory system
+Acinetobacter nosocomialis	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter nosocomialis	-	Human;Plant;Reptile	BSL-2	Blood;Central nervous system;Digestive system;Eye/Ear/Oral/Nasal;Respiratory system;Skin/Soft tissue;Urinary system
+Corynebacterium falsenii	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium falsenii	+	Birds;Human	BSL-2	
+Acinetobacter ursingii	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter ursingii	-	Human;Plant	BSL-2	Blood;Eye/Ear/Oral/Nasal;Respiratory system;Skin/Soft tissue
+Acinetobacter schindleri	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter schindleri	-	Birds;Human;Mammal	BSL-2	Blood
+Lactobacillus jensenii	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus jensenii	+	Human	BSL-1	
+Streptococcus australis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus australis	+	Human;Primate	BSL-2	Eye/Ear/Oral/Nasal
+Nocardia abscessus	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Nocardia	Nocardia abscessus	+	Human	BSL-2	
+Haemophilus quentini	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus quentini	-	Human	null	Blood
+Helicobacter canadensis	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter canadensis	-	Human	BSL-2	
+Bordetella trematum	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	Bordetella trematum	-	Human;Mammal	BSL-2	
+Providencia alcalifaciens	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Providencia	Providencia alcalifaciens	-	Human;Insect;Mammal;Rodent	BSL-2	Digestive system
+Citrobacter youngae	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter youngae	-	Birds;Environment;Human	BSL-2	Respiratory system
+Corynebacterium freneyi	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium freneyi	+	Human	BSL-2	
+Acinetobacter parvus	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter parvus	-	Human;Rodent	BSL-2	Blood;Respiratory system
+Mycolicibacterium goodii	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycolicibacterium	Mycolicibacterium goodii	+	Human	null	
+Ureaplasma parvum	Bacteria	Mycoplasmatota		Mycoplasmoidales	Mycoplasmoidaceae	Ureaplasma	Ureaplasma parvum	+	Human	null	Reproductive system;Urinary system
+Clostridium neonatale	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium neonatale	+	Human	null	
+Streptococcus lutetiensis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus lutetiensis	+	Human;Primate	BSL-2	Cardiovascular system;Digestive system
+Burkholderia dolosa	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia dolosa	-	Human	BSL-2	Central nervous system;Respiratory system
+Hungatella hathewayi	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hungatella	Hungatella hathewayi	+	Human;Mammal;Rodent	BSL-1	
+Cedecea davisae	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cedecea	Cedecea davisae	-	Human	BSL-2	Bone/Joint
+Cedecea neteri	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cedecea	Cedecea neteri	-	Human	BSL-2	
+Enterobacter hormaechei	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter hormaechei	-	Arthropod;Birds;Environment;Human;Mammal;Plant;Reptile;Rodent;Vertebrate	BSL-2	Blood;Bone/Joint;Cardiovascular system;Central nervous system;Digestive system;Endocrine system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Microbacterium hominis	Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium hominis	-	Human	BSL-2	
+Segatella copri	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	Segatella copri	-	Human;Mammal	BSL-1	Bone/Joint
+Corynebacterium aurimucosum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium aurimucosum	+	Human	BSL-1	Respiratory system
+Staphylococcus pettenkoferi	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus pettenkoferi	+	Human	BSL-2	
+Streptococcus sinensis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sinensis	+	Human	BSL-2	
+Aeromonas dhakensis	Bacteria	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas dhakensis	-	Arthropod;Human;Plant;Reptile;Vertebrate	BSL-2	Blood;Bone/Joint;Digestive system;Respiratory system
+Haemophilus aegyptius	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus aegyptius	-	Human	BSL-2	
+Streptococcus pasteurianus	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pasteurianus	+	Birds;Human;Mammal	BSL-2	Cardiovascular system;Central nervous system
+Pseudomonas koreensis	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas koreensis	-	Human;Mammal;Plant	BSL-1	
+Enterobacter kobei	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter kobei	-	Birds;Human;Insect;Mammal	BSL-2	Blood;Digestive system;Respiratory system;Urinary system
+Escherichia albertii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia albertii	-	Birds;Human;Mammal	null	Blood;Digestive system;Respiratory system
+Comamonas aquatica	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Comamonas	Comamonas aquatica	-	Human;Vertebrate	null	
+Nocardia higoensis	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Nocardia	Nocardia higoensis	+	Human	BSL-1	
+Segatella salivae	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	Segatella salivae	-	Human	BSL-2	Respiratory system
+Hallella bergensis	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Hallella	Hallella bergensis	-	Human	BSL-2	
+Klebsiella variicola	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella variicola	-	Birds;Environment;Human;Insect;Mammal;Plant;Rodent	BSL-2	Blood;Digestive system;Endocrine system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Streptococcus halichoeri	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus halichoeri	+	Human;Mammal	BSL-2	Skin/Soft tissue
+Streptococcus pseudopneumoniae	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pseudopneumoniae	+	Human	BSL-2	Blood;Central nervous system;Respiratory system
+Neisseria bacilliformis	Bacteria	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria bacilliformis	-	Human	BSL-2	
+Acinetobacter colistiniresistens	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter colistiniresistens	-	Human	BSL-2	Blood;Skin/Soft tissue
+Acinetobacter courvalinii	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter courvalinii	-	Human;Reptile	BSL-2	Blood
+Prevotella multiformis	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella multiformis	-	Human	BSL-2	
+Enterobacter ludwigii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter ludwigii	-	Birds;Human;Insect;Mammal;Vertebrate	BSL-2	Blood;Digestive system;Eye/Ear/Oral/Nasal;Respiratory system;Skin/Soft tissue;Urinary system
+Segatella baroniae	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	Segatella baroniae	-	Human	BSL-2	
+Bacteroides pyogenes	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides pyogenes	-	Human;Mammal	BSL-2	
+Streptococcus gallolyticus	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus gallolyticus	+	Human;Mammal	BSL-2	Cardiovascular system;Digestive system
+Neisseria animaloris	Bacteria	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria animaloris	-	Human	BSL-2	
+Mycobacterium colombiense	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium colombiense	+	Human	null	Blood
+Burkholderia oklahomensis	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia oklahomensis	-	Human	BSL-2	
+Phocaeicola dorei	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola dorei	-	Birds;Human;Mammal	BSL-1	
+Streptococcus pseudoporcinus	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pseudoporcinus	+	Human;Mammal	BSL-2	
+Hoylesella timonensis	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Hoylesella	Hoylesella timonensis	-	Human	BSL-2	
+Chromobacterium haemolyticum	Bacteria	Pseudomonadota	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Chromobacterium	Chromobacterium haemolyticum	null	Arthropod;Human	BSL-2	Blood
+Hoylesella pleuritidis	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Hoylesella	Hoylesella pleuritidis	-	Human	BSL-2	
+Cronobacter dublinensis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cronobacter	Cronobacter dublinensis	-	Human;Mammal	BSL-2	
+Cronobacter malonaticus	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cronobacter	Cronobacter malonaticus	-	Human;Insect;Mammal	BSL-2	Blood
+Prevotella amnii	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella amnii	-	Human	BSL-2	
+Hoylesella nanceiensis	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Hoylesella	Hoylesella nanceiensis	-	Human	BSL-2	Respiratory system
+Actinomyces massiliensis	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces massiliensis	+	Human	BSL-2	
+Prevotella histicola	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella histicola	-	Human	BSL-2	Respiratory system
+Nocardia wallacei	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Nocardia	Nocardia wallacei	+	Human	BSL-2	
+Burkholderia lata	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia lata	-	Human;Mammal	BSL-1	
+Acinetobacter soli	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter soli	-	Human;Plant	BSL-2	Blood;Bone/Joint;Reproductive system;Respiratory system;Skin/Soft tissue
+Burkholderia latens	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia latens	-	Human	BSL-2	Respiratory system
+Aeromonas diversa	Bacteria	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas diversa	-	Human	BSL-2	
+Enterobacter mori	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter mori	-	Human;Insect;Mammal;Plant	BSL-2	Eye/Ear/Oral/Nasal
+Actinomyces oris	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces oris	+	Human	BSL-2	Eye/Ear/Oral/Nasal
+Proteus terrae subsp. cibarius	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Proteus	Proteus terrae	-	Birds;Human;Mammal	BSL-2	
+Bacteroides fluxus	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fluxus	-	Human;Mammal	BSL-1	
+Chryseobacterium arthrosphaerae	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Chryseobacterium	Chryseobacterium arthrosphaerae	null	Amphibian;Birds;Human	BSL-2	Digestive system;Respiratory system
+Streptococcus lactarius	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus lactarius	+	Human	BSL-1	
+Enterobacter bugandensis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter bugandensis	-	Arthropod;Birds;Human;Mammal	BSL-2	Blood;Respiratory system;Skin/Soft tissue;Urinary system
+Staphylococcus argenteus	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus argenteus	+	Human;Mammal;Primate;Vertebrate	BSL-2	Blood;Bone/Joint;Reproductive system;Respiratory system;Skin/Soft tissue
+Klebsiella michiganensis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella michiganensis	-	Birds;Human;Insect;Mammal;Plant;Reptile;Rodent	BSL-2	Blood;Central nervous system;Digestive system;Eye/Ear/Oral/Nasal;Reproductive system;Respiratory system;Skin/Soft tissue;Urinary system
+Nocardia vulneris	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Nocardia	Nocardia vulneris	+	Human	BSL-2	Skin/Soft tissue
+Acinetobacter oleivorans	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter oleivorans	-	Human;Mammal;Plant;Reptile	null	Digestive system
+Prevotella jejuni	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella jejuni	-	Human	null	Respiratory system
+Brucella inopinata	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Brucellaceae	Brucella	Brucella inopinata	-	Human	BSL-3	
+Bartonella ancashensis	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bartonellaceae	Bartonella	Bartonella ancashensis	-	Human	null	
+Chryseobacterium gallinarum	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Chryseobacterium	Chryseobacterium gallinarum	null	Human	BSL-2	Urinary system
+Streptococcus gwangjuense	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus gwangjuensis	+	Human	BSL-2	Eye/Ear/Oral/Nasal
+Candidatus Mycoplasma haematohominis	Bacteria	Mycoplasmatota	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	Candidatus Mycoplasma haematohominis	+	Human	null	
+Escherichia marmotae	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia marmotae	-	Birds;Human;Mammal;Rodent;Vertebrate	BSL-1	Blood;Digestive system
+Streptococcus parasuis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus parasuis	+	Human;Mammal	BSL-2	Central nervous system;Digestive system;Respiratory system
+Acinetobacter seifertii	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter seifertii	-	Human;Mammal	BSL-2	Blood;Digestive system
+Borreliella mayonii	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Borreliaceae	Borreliella	Borreliella mayonii	-	Human	null	
+Enterobacter roggenkampii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter roggenkampii	-	Arthropod;Birds;Human;Mammal	BSL-2	Blood;Digestive system;Eye/Ear/Oral/Nasal;Respiratory system;Urinary system
+Capnocytophaga canis	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga canis	null	Human;Mammal	BSL-2	Blood
+Enterobacter sichuanensis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sichuanensis	-	Arthropod;Human;Mammal	BSL-2	Blood
+Lactobacillus paragasseri	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus paragasseri	+	Human	BSL-1	
+Streptococcus halitosis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus halitosis	+	Human	BSL-2	
+Streptococcus periodonticum	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus periodonticum	+	Human	BSL-2	Eye/Ear/Oral/Nasal
+Enterobacter chengduensis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter chengduensis	-	Human	BSL-2	Blood;Digestive system;Skin/Soft tissue
+Enterobacter huaxiensis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter huaxiensis	-	Human;Mammal	BSL-2	
+Enterobacter quasiroggenkampii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter quasiroggenkampii	-	Arthropod;Human;Mammal;Primate	BSL-2	Blood
+Enterobacter chuandaensis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter chuandaensis	-	Birds;Human	BSL-2	Urinary system
+Enterobacter wuhouensis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter wuhouensis	-	Human	BSL-2	
+Enterobacter quasihormaechei	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter quasihormaechei	-	Human	BSL-2	Blood
+Prevotella vespertina	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella vespertina	-	Human	BSL-2	Digestive system
+Enterobacter quasimori	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter quasimori	-	Human	BSL-2	
+Staphylococcus pseudintermedius	Bacteria	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus pseudintermedius	+	Mammal;Human	BSL-2	Blood;Respiratory system;Respiratory system;Urinary system;Central nervous system;Digestive system;Digestive system
+Leptospira borgpetersenii	Bacteria	Spirochaetota	Spirochaetia	Leptospiraceae	Leptospiraceae	Leptospira	Leptospira borgpetersenii	-	Mammal;Human	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Klebsiella quasipneumoniae	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella quasipneumoniae	-	Environment;Human	BSL-2	Blood;Respiratory system;Respiratory system;Urinary system;Central nervous system;Digestive system;Digestive system
+Arcobacter cryaerophilus	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Arcobacter	Arcobacter cryaerophilus	-		BSL-2	Blood;Respiratory system;Respiratory system;Urinary system;Central nervous system;Digestive system;Digestive system
+Arcobacter butzleri	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Arcobacter	Arcobacter butzleri	-		BSL-2	Digestive system
+Ureaplasma urealyticum	Bacteria	Mycoplasmatota	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Ureaplasma	Ureaplasma urealyticum	+	Human	BSL-2	Blood;Respiratory system;Respiratory system;Urinary system;Central nervous system;Digestive system;Digestive system
+Mycoplasma hominis	Bacteria	Mycoplasmatota	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	Mycoplasma hominis	Null	Humans	BSL-2	Blood;Respiratory system;Respiratory system;Urinary system;Central nervous system;Digestive system;Digestive system
+Mycoplasma genitalium	Bacteria	Mycoplasmatota	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	Mycoplasma genitalium	Null	Humans	BSL-2	Urinary system
+Neisseria gonorrhea	Bacteria	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria gonorrhea	-	Humans	BSL-2	Urinary system;Eye/Ear/Oral/Nasal
+Enterobacteriales Salmonella	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Enterobacteriales Salmonella	-	Humans	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Enterobacteriaceae Salmonella	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Enterobacteriaceae Salmonella	-	Humans	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Calymmatobacterium granulomatis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella granulomatis	-	Humans	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Photobacterium damselae	Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium damselae	-	Vertebrate;Humans	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Achromobacter xylosoxidans	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Achromobacter	Achromobacter xylosoxidans	-	Environment;Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Achromobacter denitrificans	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Achromobacter	Achromobacter denitrificans	-	Environment;Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Kerstersia gyiorum	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Kerstersia	Kerstersia gyiorum	-	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Providencia mirabilis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Proteus	Proteus mirabilis	-	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Enterobacter aerogenes	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter aerogenes	-	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Myroides odoratimimus	Bacteria	Pseudomonadota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Myroides	Myroides odoratus	-	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Pseudomonas mendocina	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas mendocina	-	Environment	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Wohlfahrtiimonas chitiniclastica	Bacteria	Pseudomonadota	Gammaproteobacteria	Cardiobacteriales	Wohlfahrtiimonadaceae	Wohlfahrtiimonas	Wohlfahrtiimonas chitiniclastica	-	Insect	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Streptococcus mutans	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus mutans	+	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Streptococcus zooepidemicus	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus zooepidemicus	+	Mammal	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Streptococcus tigurinus	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pyogenes	+	Human	BSL-2	Blood;Cardiovascular system;Central nervous system;Bone/Joint;Digestive system
+Streptococcus bovis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus bovis	+	Mammal	BSL-2	Blood;Cardiovascular system;Central nervous system;Digestive system;Bone/Joint
+Mycobacterium fortuitum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium fortuitum	+	Environment;Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Mycobacterium peregrinum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium peregrinum	+	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Rhizobiales Afipia	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Nitrobacteraceae	Afipia	Rhizobiales Afipia	-	Environment	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Bradyrhizobiaceae Afipia	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Afipia	Bradyrhizobiaceae Afipia	-	Environment	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Acetobacteraceae Roseomonas	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Roseomonas	Roseomonas gilardii	-	Environment	BSL-1	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Spirochaetaceae Borrelia	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Borrelia	Spirochaetaceae Borrelia	-	Arthropod	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Moraxellaceae Moraxella	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	Moraxellaceae Moraxella	-	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Pseudomonas stutzeri	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas stutzeri	-	Environment	BSL-1	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Corynebacterium auriscanis	Bacteria	Actinomycetota	Actinomycetes	Actinomycetes	Mycobacteriaceae	Corynebacterium	Corynebacterium auriscanis	+	Mammal	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Corynebacterium canis	Bacteria	Actinomycetota	Actinomycetes	Actinomycetes	Mycobacteriaceae	Corynebacterium	Corynebacterium auriscanis	+	Mammal	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Corynebacterium freiburgense	Bacteria	Actinomycetota	Actinomycetes	Actinomycetes	Mycobacteriaceae	Corynebacterium	Corynebacterium freiburgense	+	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Corynebacterium kutscheri	Bacteria	Actinomycetota	Actinomycetes	Actinomycetes	Mycobacteriaceae	Corynebacterium	Corynebacterium kutscheri	+	Rodent	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Corynebacterium mastitidis	Bacteria	Actinomycetota	Actinomycetes	Actinomycetes	Mycobacteriaceae	Corynebacterium	Corynebacterium mastitidis	+	Mammal	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Corynebacterium glucuronolyticum	Bacteria	Actinomycetota	Actinomycetes	Actinomycetes	Mycobacteriaceae	Corynebacterium	Corynebacterium glucuronolyticum	+	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Corynebacterium urealyticum	Bacteria	Actinomycetota	Actinomycetes	Actinomycetes	Mycobacteriaceae	Corynebacterium	Corynebacterium urealyticum	+	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Mycobacterium abscessus	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium abscessus	+	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Mycobacterium asiaticum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium asiaticum	+	Environment	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Mycobacterium intracellulare	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium intracellulare	+	Environment	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Mycobacterium bacteremicum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium bacteremicum	+	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Mycobacterium neoaurum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium neoaurum	+	Environment	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Mycobacterium barrassiae	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium barrassiae	+	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Mycobacterium branderi	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium branderi	+	Mammal;Human;Environment	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Mycobacterium celatum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium celatum	+	Human;Environment	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Nocardia africana	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Nocardia	Nocardia africana	+	Human	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Nocardia mexicana	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Nocardia	Nocardia mexicana	+	Human;Environment	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Nocardia veterana	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Nocardia	Nocardia veterana	+	Human;Environment	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Nocardia pseudobrasiliensis	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Nocardia	Nocardia pseudobrasiliensis	+	Human	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Nocardia cyriacigeorgica	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Nocardia	Nocardia cyriacigeorgica	+	Human;Environment	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Dermabacter hominis	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Dermabacteraceae	Dermabacter	Dermabacter hominis	+	Human	BSL-1	Blood;Respiratory system;Central nervous system;Digestive system;Urinary system
+Pseudomonas putrefaciens	Bacteria	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Pseudomonas putrefaciens	-	Human;Environment	BSL-1	Blood;Respiratory system;Central nervous system;Digestive system
+Acinetobacter calcoaceticus	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter calcoaceticus	-	Human;Insect;Environment	BSL-1	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system
+Actinomyces odontolyticus	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces odontolyticus	+	Human	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Aeromonas enteropelogenes	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Aeromonadaceae	Aeromonas	Aeromonas enteropelogenes	-	Human;Environment	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Bifidobacterium animalis	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium animalis	+	Mammal;Human	BSL-1	Blood;Respiratory system;Central nervous system;Digestive system
+Clostridium difficile	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Clostridioides	Clostridium difficile	+	Human;Environment;Birds;Mammal	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Clostridium sordellii	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Paraclostridium	Clostridium sordellii	+	Human	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Clostridium spiroforme	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium spiroforme	+	Mammal;Human	BSL-1	Blood;Respiratory system;Central nervous system;Digestive system
+Corynebacterium amycolatum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Corynebacterium	Corynebacterium amycolatum	+	Human;Environment	BSL-1	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Corynebacterium ureicelerivorans	Bacteria	Actinomycetota	Actinomycetia	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium ureicelerivorans	+	Human	BSL-1	Blood;Respiratory system;Central nervous system;Digestive system;Urinary system
+Cronobacter condimenti	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cronobacter	Cronobacter condimenti	-	Human;Environment	BSL-1	Blood;Respiratory system;Central nervous system;Digestive system
+Cronobacter turicensis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cronobacter	Cronobacter turicensis	-	Human;Food	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Cronobacter universalis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cronobacter	Cronobacter universalis	-	Human;Food;Environment	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Eggerthella lenta	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Eggerthella	Eggerthella lenta	+	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Helicobacter fennelliae	Bacteria	Pseudomonadota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter fennelliae	-	Mammal;Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system
+Legionella anisa	Bacteria	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella anisa	-	Human;Environment	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Leminorella grimontii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Leminorella	Leminorella grimontii	-	Human;Insect	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Mycobacterium marinum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium marinum	+	Human;Food;Environment	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Mycobacterium massiliense	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacteroides	Mycobacterium massiliense	+	Human;Environment	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Mycobacterium septicum	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium septicum	+	Human;Environment	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Mycobacterium smegmatis	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium smegmatis	+	Human;Environment;Plant	BSL-1	Blood;Respiratory system;Central nervous system;Digestive system
+Mycoplasma penetrans	Bacteria	Mycoplasmatota	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	Mycoplasma penetrans	+	Human;Environment;Rodent;Birds	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Mycoplasma pneumoniae	Bacteria	Mycoplasmatota	Mollicutes	Mycoplasmoidales	Mycoplasmoidaceae	Mycoplasmoides	Mycoplasma pneumoniae	Null	Human	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system;Urinary system
+Parascardovia denticolens	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Parascardovia	Parascardovia denticolens	+	Human	BSL-1	Blood;Respiratory system;Central nervous system;Digestive system
+Photorhabdus asymbiotica	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Photorhabdus	Photorhabdus asymbiotica	-	Human	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Staphylococcus capitis	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus capitis	+	Human;Birds;Mammal	BSL-2	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system
+Streptococcus urinalis	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus urinalis	+	Human	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system;Urinary system
+Yersinia kristensenii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Yersinia	Yersinia kristensenii	-	Human;Environment	BSL-1	Blood;Respiratory system;Cardiovascular system;Central nervous system;Digestive system
+Clostridium difficile	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Clostridioides	Clostridium difficile	+	Human;Environment;Mammal	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Clostridium spiroforme	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium spiroforme	+	Mammal	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Arcobacter butzleri	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Arcobacter	Arcobacter butzleri	-	Human;Food;Birds;Mammal	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Leminorella grimontii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Leminorella	Leminorella grimontii	-	Human;Environment	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Yersinia kristensenii	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Yersinia	Yersinia kristensenii	-	Human;Environment;Mammal	BSL-1	Blood;Respiratory system;Central nervous system;Digestive system
+Aeromonas enteropelogenes	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Aeromonadaceae	Aeromonas	Aeromonas enteropelogenes	-	Human;Environment	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Cronobacter condimenti	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cronobacter	Cronobacter condimenti	-	Human;Environment;Food	BSL-1	Blood;Respiratory system;Central nervous system;Digestive system
+Cronobacter turicensis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cronobacter	Cronobacter turicensis	-	Human;Food	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Cronobacter universalis	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cronobacter	Cronobacter universalis	-	Human;Environment;Food	BSL-2	Blood;Respiratory system;Central nervous system;Digestive system
+Acinetobacter calcoaceticus	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter calcoaceticus	-	Human;Environment;Insect	BSL-1	Blood;Respiratory system;Central nervous system;Digestive system
+Empedobacter brevis	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter	Empedobacter brevis	-	Environment	BSL-1	Blood;Respiratory system;Urinary system;Central nervous system;Digestive system;Bone/Joint;Reproductive system;Skin/Soft tissue
+Enterobacter aerogenes	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter aerogenes	-	Human;Mammal;Environment	BSL-2	Blood;Respiratory system;Urinary system;Central nervous system;Digestive system;Bone/Joint;Reproductive system;Skin/Soft tissue
+Burkholderiales bacterium	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderiales bacterium	-	Environment;Plant	BSL-2	Respiratory system;Immune system;Eye/Ear/Oral/Nasal
+Legionella anisa	Bacteria	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella anisa	-	Environment;Human	BSL-2	Respiratory system;Immune system;Eye/Ear/Oral/Nasal
+Mycobacterium massiliense	Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium numidiamassiliense	+	Environment	BSL-2	Respiratory system;Immune system;Skin/Soft tissue
+Mycoplasma pneumoniae	Bacteria	Bacillota	Bacilli	Mycoplasmatales	Mycoplasmoidaceae	Mycoplasmoides	Mycoplasmoides pneumoniae	+	Human	BSL-2	Respiratory system
+Staphylococcus capitis	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus capitis	+	Human	BSL-1	Blood;Cardiovascular system
+Actinomyces odontolyticus	Bacteria	Actinomycetota 	Actinomycetes	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces odontolyticus	+	Human	BSL-2	Digestive system
+Corynebacterium ureicelerivorans	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Corynebacteriaceae	Corynebacterium	Corynebacterium ureicelerivorans	+	Human	BSL-1	Urinary system
+Kocuria rosea	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Micrococcaceae	Kocuria	Kocuria rosea	+	Environment£¬Mammal	BSL-1	Cardiovascular system£»Digestive system£»Skin/Soft tissue
+Staphylococcus caledonicus	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus caledonicus	+	Reptile	BSL-1	Skin/Soft tissue;Respiratory system;Cardiovascular system;Blood
+Staphylococcus caprae	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus caprae	+	Human;Mammal	BSL-2	Blood; Bone/Joint; Eye/Ear/Oral/Nasal; Urinary system
