@@ -14,7 +14,7 @@ Human Pathogenic Bacteria Risk Assessment Platform (HPBRAP) is a metagenome-base
    - deepARG  
    - Esymicrobiome
 2. The input data must be **paired-end metagenomic sequencing reads**
-3. metadata.txt should be prepared.
+3. **metadata.txt** should be prepared.
 
 ## **Usage**
 ```bash
