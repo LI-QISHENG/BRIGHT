@@ -542,6 +542,6 @@ Mycoplasma pneumoniae	Bacteria	Bacillota	Bacilli	Mycoplasmatales	Mycoplasmoidace
 Staphylococcus capitis	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus capitis	+	Human	BSL-1	Blood;Cardiovascular system
 Actinomyces odontolyticus	Bacteria	Actinomycetota 	Actinomycetes	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces odontolyticus	+	Human	BSL-2	Digestive system
 Corynebacterium ureicelerivorans	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Corynebacteriaceae	Corynebacterium	Corynebacterium ureicelerivorans	+	Human	BSL-1	Urinary system
-Kocuria rosea	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Micrococcaceae	Kocuria	Kocuria rosea	+	Environment£¬Mammal	BSL-1	Cardiovascular system£»Digestive system£»Skin/Soft tissue
+Kocuria rosea	Bacteria	Actinomycetota	Actinomycetes	Actinomycetales	Micrococcaceae	Kocuria	Kocuria rosea	+	EnvironmentÂ£Â¬Mammal	BSL-1	Cardiovascular systemÂ£Â»Digestive systemÂ£Â»Skin/Soft tissue
 Staphylococcus caledonicus	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus caledonicus	+	Reptile	BSL-1	Skin/Soft tissue;Respiratory system;Cardiovascular system;Blood
 Staphylococcus caprae	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus caprae	+	Human;Mammal	BSL-2	Blood; Bone/Joint; Eye/Ear/Oral/Nasal; Urinary system
