@@ -113,7 +113,7 @@ python MetaVF_toolkit/metaVF.py \
     -p MetaVF_toolkit \
     -pjn bimrap \
     -id temp/MAG_nucleotide2 \
-    -o temp/VF -m draft -c 8 -ti 70 -tc 60
+    -o temp/VF -m draft -c 8 -ti 90 -tc 80
 python3 vf_summary.py temp/VF/bimrap/*/*.summary
 python3 vf_summary.py --pattern "temp/VF/bimrap2/*/*.summary" --info-pattern "temp/VF/bimrap2/*/*_info.summary" --debug
 
@@ -141,8 +141,8 @@ tail -n +2 metadataS.txt | cut -f1 | rush -j 4 \
         -d /home/public/soft/deeparg-data \
         --type nucl \
         --min-prob 0.8 \
-        --arg-alignment-identity 80 \
-        --arg-alignment-evalue 1e-7 \
+        --arg-alignment-identity 90 \
+        --arg-alignment-evalue 1e-10 \
         --arg-num-alignments-per-entry 1000"
 python3 arg_summary.py temp/deeparg/*.mapping.ARG 
 
@@ -153,4 +153,5 @@ python3 overall_risk.py \
   KO.PathwayL2.tsv \
   ARG.type.tsv \
   overall_risk.tsv
+
 python3 overall_risk_sample.py result/coverm/MAGabundance.tsv overall_risk.tsv overall_risk_sample.tsv
