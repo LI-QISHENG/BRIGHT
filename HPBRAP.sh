@@ -105,7 +105,7 @@ gtdbtk classify_wf \
       --extension fa --skip_ani_screen \
       --prefix tax \
       --cpus 32
-python3 species_summary.py temp/gtdb_95_226/tax.bac120.summary.tsv hpbdb.txt species_level.tsv
+python3 scripts/species_summary.py temp/gtdb_95_226/tax.bac120.summary.tsv databases/hpbdb.txt species_level.tsv
 
 ##Virulence Leve
 conda activate MetaVF_toolkit
@@ -114,8 +114,7 @@ python MetaVF_toolkit/metaVF.py \
     -pjn bimrap \
     -id temp/MAG_nucleotide2 \
     -o temp/VF -m draft -c 8 -ti 90 -tc 80
-python3 vf_summary.py temp/VF/bimrap/*/*.summary
-python3 vf_summary.py --pattern "temp/VF/bimrap2/*/*.summary" --info-pattern "temp/VF/bimrap2/*/*_info.summary" --debug
+python3 scripts/vf_summary.py temp/VF/bimrap/*/*.summary
 
 ##Pathway level
 conda activate eggnog
@@ -127,8 +126,8 @@ tail -n +2 metadataS.txt | cut -f1 | rush -j 4 \
 
 mkdir -p temp/eggnog/ko_disease
 tail -n +2 metadataS.txt | cut -f1 | rush -j 4 \
-    "python3 genome_ko_table.py temp/eggnog/{}.emapper.annotations KO1-4.txt temp/eggnog/ko_disease/{}.ko.disease -hd"   
-python3 ko_disease_summary.py temp/eggnog/ko_disease/*.ko.disease --sample-mode basename
+    "python3 scripts/genome_ko_table.py temp/eggnog/{}.emapper.annotations databases/KO1-4.txt temp/eggnog/ko_disease/{}.ko.disease -hd"   
+python3 scripts/ko_disease_summary.py temp/eggnog/ko_disease/*.ko.disease --sample-mode basename
  
 ##Resistance level
 conda activate deeparg
@@ -144,7 +143,7 @@ tail -n +2 metadataS.txt | cut -f1 | rush -j 4 \
         --arg-alignment-identity 90 \
         --arg-alignment-evalue 1e-10 \
         --arg-num-alignments-per-entry 1000"
-python3 arg_summary.py temp/deeparg/*.mapping.ARG 
+python3 scripts/arg_summary.py temp/deeparg/*.mapping.ARG 
 
 ##Overall risk
 python3 overall_risk.py \
@@ -154,4 +153,5 @@ python3 overall_risk.py \
   ARG.type.tsv \
   overall_risk.tsv
 
-python3 overall_risk_sample.py result/coverm/MAGabundance.tsv overall_risk.tsv overall_risk_sample.tsv
+python3 scripts/overall_risk_sample.py result/coverm/MAGabundance.tsv overall_risk.tsv overall_risk_sample.tsv
+
