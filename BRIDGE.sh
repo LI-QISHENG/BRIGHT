@@ -1,7 +1,7 @@
 #Genome data acquisition
 ##Quality control
-mkdir -p hpbrap hpbrap/temp hpbrap/result
-cd hpbrap
+mkdir -p bridge bridge/temp bridge/result
+cd bridge
 mkdir -p temp/qc
 time tail -n+2 metadata.txt|cut -f1|rush -j 16 \
   "fastp -i seq/{1}_1.fq.gz -I seq/{1}_2.fq.gz \
@@ -154,4 +154,5 @@ python3 overall_risk.py \
   overall_risk.tsv
 
 python3 scripts/overall_risk_sample.py result/coverm/MAGabundance.tsv overall_risk.tsv overall_risk_sample.tsv
+
 
