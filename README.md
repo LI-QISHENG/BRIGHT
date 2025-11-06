@@ -1,8 +1,8 @@
-# HPBRAP
-Human Pathogenic Bacteria Risk Assessment Platform (HPBRAP) is a metagenome-based platform for human pathogenic bacteria risk identification.  It enables one-click identification of potential human pathogenic bacteria, risk quantification, disease association, and potential pathogenic gene detection.
+# BRIDGE
+Bacterial Risk Identification and Disease-related Gene Evaluation Platform (BRIDGE) is a metagenome-based platform for human pathogenic bacteria risk identification.  It enables one-click identification of potential human pathogenic bacteria, risk quantification, disease association, and potential pathogenic gene detection.
 
 ## **Preparation**
-1. **HPBRAP** is based on **conda** environment management. Please ensure the following tools are installed and configured before running the platform:
+1. **BRIDGE** is based on **conda** environment management. Please ensure the following tools are installed and configured before running the platform:
    - MEGAHIT  
    - MetaWRAP  
    - dRep  
@@ -18,11 +18,11 @@ Human Pathogenic Bacteria Risk Assessment Platform (HPBRAP) is a metagenome-base
 
 ## **Usage**
 ```bash
-bash /path/to/HPBRAP.sh
+bash /path/to/BRIDGE.sh
 ```
 
 ## **Output**
-HPBRAP provides multi-level human pathogenic bacteria risk outputs, including:
+BRIDGE provides multi-level human pathogenic bacteria risk outputs, including:
 ```bash
 Bacterial and Disease risk file: species_level.tsv
 Quantitative risk files: overall_risk.tsv, overall_risk_sample.tsv
