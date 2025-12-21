@@ -1,8 +1,8 @@
-# BRIDGE
-Bacterial Risk Identification and Disease-related Gene Evaluation Platform (BRIDGE) is a metagenome-based platform for human pathogenic bacteria risk identification.  It enables one-click identification of potential human pathogenic bacteria, risk quantification, disease association, and potential pathogenic gene detection.
+# BRIGHT
+Bacterial Risk Identification and Gene-based Health Toolkit (BRIGHT) is a metagenome-based platform for human pathogenic bacteria risk identification.  It enables one-click identification of potential human pathogenic bacteria, risk quantification, disease association, and potential pathogenic gene detection.
 
 ## **Preparation**
-1. **BRIDGE** is based on **conda** environment management. Please ensure the following tools are installed and configured before running the platform:
+1. **BRIGHT** is based on **conda** environment management. Please ensure the following tools are installed and configured before running the platform:
    - MEGAHIT  
    - MetaWRAP  
    - dRep  
@@ -18,7 +18,7 @@ Bacterial Risk Identification and Disease-related Gene Evaluation Platform (BRID
 
 ## **Usage**
 ```bash
-bash /path/to/BRIDGE.sh
+bash /path/to/BRIGHT.sh
 ```
 
 ## **Output**
