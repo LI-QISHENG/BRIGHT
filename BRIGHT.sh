@@ -1,6 +1,6 @@
 #Genome data acquisition
 ##Quality control
-mkdir -p bridge bridge/temp bridge/result
+mkdir -p bright bright/temp bright/result
 cd bridge
 mkdir -p temp/qc
 time tail -n+2 metadata.txt|cut -f1|rush -j 16 \
@@ -154,5 +154,6 @@ python3 overall_risk.py \
   overall_risk.tsv
 
 python3 scripts/overall_risk_sample.py result/coverm/MAGabundance.tsv overall_risk.tsv overall_risk_sample.tsv
+
 
 
