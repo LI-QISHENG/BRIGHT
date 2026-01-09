@@ -31,5 +31,5 @@ Potential pathogenic gene files: VF.category.tsv, VF.type.tsv, KO.PathwayL2.tsv,
 
 
 Copyright 2025-2026 Qisheng Li, qs.li@cqu.edu.cn, Chongqing University, China;
-                    HuanLiu, huanliu@cqu.edu.cn, Chongqing University, China;
+                    Huan Liu, huanliu@cqu.edu.cn, Chongqing University, China;
                     Meng Liu, liumeng@cqu.edu.cn, Chongqing University, China.
