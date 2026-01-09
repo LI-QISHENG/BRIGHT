@@ -28,3 +28,8 @@ Bacterial and Disease risk file: species_level.tsv
 Quantitative risk files: overall_risk.tsv, overall_risk_sample.tsv
 Potential pathogenic gene files: VF.category.tsv, VF.type.tsv, KO.PathwayL2.tsv, ARG.type.tsv
 ```
+
+
+Copyright 2025-2026 Qisheng Li, qs.li@cqu.edu.cn, Chongqing University, China;
+                    HuanLiu, huanliu@cqu.edu.cn, Chongqing University, China
+                    Meng Liu, liumeng@cqu.edu.cn, Chongqing University, China
