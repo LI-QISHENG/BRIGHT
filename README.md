@@ -1,4 +1,4 @@
-<img width="257" height="28" alt="image" src="https://github.com/user-attachments/assets/c32ba431-775e-443d-9525-eb985f83260d" /><img width="219" height="28" alt="image" src="https://github.com/user-attachments/assets/9dc28cb6-a7a5-4381-8153-614b1d0aaaf6" /># BRIGHT
+# BRIGHT
 Bacterial Risk Identification and Gene-based Health Toolkit (BRIGHT) is a metagenome-based platform for human pathogenic bacteria (HPB) risk identification. It enables one-click identification of potential HPB, quantitative risk assessment, disease association analysis, and pathogenic gene detection. BRIGHT further supports gene-based identification of bacteria with high human pathogenic risk and integrates machine learning models to associate high-risk bacteria with environmental factors.
 
 ## **Preparation**
@@ -28,6 +28,7 @@ BRIDGE provides multi-level human pathogenic bacteria risk outputs, including:
 Bacterial and Disease risk file: species_level.tsv
 Quantitative risk files: overall_risk.tsv, overall_risk_sample.tsv
 Potential pathogenic gene files: VF.category.tsv, VF.type.tsv, KO.PathwayL2.tsv, ARG.type.tsv, mge_ARG_co.tsv and mge_VFG_co.tsv
+Envronmental influence: SHAP_feature_importance.csv
 ```
 
 
