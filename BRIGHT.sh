@@ -137,13 +137,31 @@ tail -n +2 metadataS.txt | cut -f1 | rush -j 4 \
         --model LS \
         -i temp/MAG_nucleotide/{1}.fa \
         -o temp/deeparg/{1} \
-        -d /home/public/soft/deeparg-data \
+        -d temp/deeparg-data \
         --type nucl \
         --min-prob 0.8 \
         --arg-alignment-identity 80 \
         --arg-alignment-evalue 1e-10 \
         --arg-num-alignments-per-entry 1000"
 python3 scripts/arg_summary.py temp/deeparg/*.mapping.ARG 
+
+##mobile genetic element
+conda activate mobileOG-db
+mkdir -p temp/mge
+tail -n +2 metadataS.txt | cut -f1 | rush -j 4 \
+"diamond blastp \
+   --db mobileOG-db-beatrix-1.6.dmnd \
+   --query temp/MAG_protein/{1}.faa \
+   --outfmt 6 \
+   --threads 32 \
+   --max-target-seqs 1 \
+   --quiet \
+   -e 1e-7 \
+   --sensitive \
+   --query-cover 90 \
+   --id 80 \
+   --out temp/mge/{1}.f6"
+python3 scripts/mge_co.py temp/mgeg/*.f6 
 
 ##Overall risk
 python3 overall_risk.py \
@@ -154,6 +172,8 @@ python3 overall_risk.py \
   overall_risk.tsv
 
 python3 scripts/overall_risk_sample.py result/coverm/MAGabundance.tsv overall_risk.tsv overall_risk_sample.tsv
+python3 scripts/Env_feature.py
+
 
 
 
